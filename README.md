@@ -5,12 +5,10 @@
    
 ###   3.   Tech Stack:
 <P>
-   <img src="https://img.shields.io/badge/Python-white?logo=Python">
    <img src="https://img.shields.io/badge/PowerBI-white?logo=PowerBI">
    <img src="https://img.shields.io/badge/PowerQuery-white?logo=PowerQuery">
-   <img src="https://img.shields.io/badge/DAX-black?logo=DAX">/
-
- 
+   <img src="https://img.shields.io/badge/DAXFormula-white?logo=DAXFormula">
+   <img src="https://img.shields.io/badge/MicrosoftExcel-white?logo=MicrosoftExcel"> 
 <p>
    
 </p>
